@@ -13,10 +13,10 @@ title                    : "Panchami Patel"
 title_separator          : "-"
 name                     : &name "Panchami Patel"
 description              : &description "Chemical Engineer | Rheology | 3D Food Printing | Hydrogels"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://panchami.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://panchami27.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "panchami27/panchami.github.io"
+repository               : "panchami27/panchami27.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/panchami-p-77b46567/
+  linkedin         : panchami-p-77b46567
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
