@@ -23,11 +23,11 @@ repository               : "panchami27/panchami27.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "panchami_US.jpg"
+  avatar           : "PanchamiUS.png"
   name             : "Panchami Patel"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Chemical Engineer | Rheology | 3D Food Printing | Hydrogels | Teaching presentations and codes"
-  location         : "Earth"
+  location         : "CO, USA"
   employer         : "Looking for an exciting oppurtunity"
   uri              : # URL
   email            : "panchami.patel72@gmail.com" 
@@ -38,12 +38,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Dcdvd1YAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0002-5699-672X
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : https://www.researchgate.net/profile/Panchami-Patel
+  scopus           : 
   zotero           : # URL
 
 
@@ -84,8 +84,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
