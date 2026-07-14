@@ -41,9 +41,9 @@ author:
   orcid            : https://orcid.org/0000-0002-5699-672X
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : https://www.researchgate.net/profile/Panchami-Patel
-  scopus           : 
+  scopus           : # URL
   zotero           : # URL
 
 
