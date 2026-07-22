@@ -1,68 +1,68 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Panchami Patel",
+    "email": "panchami.patel72@gmail.com",
+    "phone": "Private",
+    "website": "https://panchami27.github.io/cv/",
+    "summary": "Chemical Engineer with expertise in rheology, hydrogels, biomaterials, and 3D printing. Experienced in research, teaching, and interdisciplinary collaborations.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Earth",
       "countryCode": "US",
-      "region": ""
+      "region": "Colorado"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=Dcdvd1YAAAAJ&hl=en&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-5699-672X"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://panchami27.github.io/cv/"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Indian Institute of Technology Gandhinagar",
+      "area": "Ph.D in Chemical Engineering (Rheology, Hydrogels, 3D Printing",
+      "studyType": "Full-Time",
+      "startDate": "2018",
+      "endDate": "2024",
+      "gpa": 9.27,
+      "courses": [Advanced Reaction Engineering, Advanced Thermodynamics, Advance Transport Phenomena, Colloidal Domain: Where Science Meets Engineering, Design of Experiments, Scientific Writing]
+    },
+    {
+      "institution": "Pandit Deendayal Petroleum University",
+      "area": "Masters of Technology in Chemical Engineering",
+      "studyType": "Full-Time",
+      "startDate": "2016",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "gpa": 9.43,
+      "courses": [Advanced Reaction Engineering, Advanced Thermodynamics, Advanced Transport Phenomena, Advanced Separation Technology, Numerical Techniques and Computer Programming, Advance Process Control, Nanoscience and Technology, Computer Aided Process Engineering]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Nirma University",
+      "area": "Bachelors of Technology in Chemical Engineering",
+      "studyType": "Full-Time",
+      "startDate": "2010",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "gpa": 8.09,c
+      "courses": [Chemical Reaction Engineering, Thermodynamics, Fluid Flow Operations, Solid Flow Operations, Process Calculations, Heat Transfer, Mass Transfer, Process Control, Transport Phenomenon, Chemical Process Industries, Enginerring Computation, Plant Utilities, Process Integration]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [Python, MATLAB, Origin, Rhino, Minitab, MS Office, MS project, Rheometer, 3D Printer, Dynamic Light Scattering, Optical Microscope, Confocal Microscope, XRD, FTIR, UV spectrophotometer, Microplate reader, Tensiometer, DinoLite Microscope, Bomb Calorimeter],
+  "languages": [English, Hindi, Gujarati, Finnish],
+  "interests": [teaching, research, coding],
   "references": [],
   "publications": [
     {
