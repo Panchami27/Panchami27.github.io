@@ -17,11 +17,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Teaching Presentations"
+    url: /teaching-presentations/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Teaching Codes"
+    url: /teaching-codes/
     
   - title: "CV"
     url: /cv/
