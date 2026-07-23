@@ -3,7 +3,7 @@
     "name": "Panchami Patel",
     "email": "panchami.patel72@gmail.com",
     "phone": "Private",
-    "website": "https://panchami27.github.io",
+    "website": "https://github.com/panchami27",
     "summary": "Chemical Engineer with expertise in rheology, hydrogels, biomaterials, and 3D printing. Experienced in research, teaching, and interdisciplinary collaborations.",
     "location": {
       "address": "",
@@ -26,11 +26,40 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://panchami27.github.io"
+        "url": "https://github.com/panchami27"
       }
     ]
   },
-  "work": [],
+  "work": [
+  {
+  "name": "Reliance Industries Limited Jamnagar",
+  "position": "Graduate Engineer Trainee and Manager",
+  "startDate": "July 2014",
+  "endDate": "September 2015",
+  "summary": "Experience in commissioning of Gasifier plant (J3), developing SOPs and developing proving plans for various equipment, Training at Coker plant (DTA)"
+  },
+  {
+  "name": "Respire Experimental Learning",
+  "position": "Research Intern R&D, educator, and product developer for experimental methodology",
+  "startDate": "April 2016",
+  "endDate": "July 2016",
+  "summary": "develop hands-on science experiment kits for school children"
+  },
+  {
+  "name": "Ganpat University, Mehsana",
+  "position": "Assistant Professor in the Department of Petrochemical Engineering",
+  "startDate": "February 2024",
+  "endDate": "May 2024",
+  "summary": "Subject taught: Chemical Reaction Engineering and Flow Mechanics"
+  },
+  {
+  "name": "ITM SLS Baroda, Vadodara",
+  "position": "Assistant Professor in the Department of Chemical Engineering",
+  "startDate": "March 2025",
+  "endDate": "April 2026",
+  "summary": "Subjects taught: Mass Transfer, Heat Transfer, Fluid Flow Operations, Computational Methods, Process Equipment Design, Thermodynamics, Chemical Technology, Wastewater Treatment, Sugar & Food Technology, Applied Chemistry. Responsibilities: Mentor Coordinator, Class coordinator (Semesters II and VI), Training and Placement coordinator, BOS documentation, 1st year orientation and bridge course organizer, ABL activity coordinator. Projects guided: Food waste-based film for food packaging, biodegradable hydrogel beads for multi-dye removal and recovery."
+  }
+  ],
   "education": [
     {
       "institution": "Indian Institute of Technology Gandhinagar",
