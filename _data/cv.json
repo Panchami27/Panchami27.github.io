@@ -3,7 +3,7 @@
     "name": "Panchami Patel",
     "email": "panchami.patel72@gmail.com",
     "phone": "Private",
-    "website": "https://panchami27.github.io/cv/",
+    "website": "https://panchami27.github.io",
     "summary": "Chemical Engineer with expertise in rheology, hydrogels, biomaterials, and 3D printing. Experienced in research, teaching, and interdisciplinary collaborations.",
     "location": {
       "address": "",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://panchami27.github.io/cv/"
+        "url": "https://panchami27.github.io"
       }
     ]
   },
@@ -34,12 +34,18 @@
   "education": [
     {
       "institution": "Indian Institute of Technology Gandhinagar",
-      "area": "Ph.D in Chemical Engineering (Rheology, Hydrogels, 3D Printing",
+      "area": "Ph.D in Chemical Engineering (Rheology, Hydrogels, 3D Printing)",
       "studyType": "Full-Time",
       "startDate": "2018",
       "endDate": "2024",
       "gpa": 9.27,
-      "courses": [Advanced Reaction Engineering, Advanced Thermodynamics, Advance Transport Phenomena, Colloidal Domain: Where Science Meets Engineering, Design of Experiments, Scientific Writing]
+      "courses": [
+        "Advanced Reaction Engineering", 
+        "Advanced Thermodynamics", 
+        "Advance Transport Phenomena", 
+        "Colloidal Domain: Where Science Meets Engineering", 
+        "Design of Experiments", 
+        "Scientific Writing"]
     },
     {
       "institution": "Pandit Deendayal Petroleum University",
@@ -48,7 +54,15 @@
       "startDate": "2016",
       "endDate": "2018",
       "gpa": 9.43,
-      "courses": [Advanced Reaction Engineering, Advanced Thermodynamics, Advanced Transport Phenomena, Advanced Separation Technology, Numerical Techniques and Computer Programming, Advance Process Control, Nanoscience and Technology, Computer Aided Process Engineering]
+      "courses": [
+        "Advanced Reaction Engineering", 
+        "Advanced Thermodynamics", 
+        "Advanced Transport Phenomena", 
+        "Advanced Separation Technology", 
+        "Numerical Techniques and Computer Programming", 
+        "Advance Process Control", 
+        "Nanoscience and Technology", 
+        "Computer Aided Process Engineering"]
     },
     {
       "institution": "Nirma University",
@@ -56,13 +70,27 @@
       "studyType": "Full-Time",
       "startDate": "2010",
       "endDate": "2014",
-      "gpa": 8.09,c
-      "courses": [Chemical Reaction Engineering, Thermodynamics, Fluid Flow Operations, Solid Flow Operations, Process Calculations, Heat Transfer, Mass Transfer, Process Control, Transport Phenomenon, Chemical Process Industries, Enginerring Computation, Plant Utilities, Process Integration]
+      "gpa": 8.09,
+      "courses": [
+        "Chemical Reaction Engineering", 
+        "Thermodynamics", 
+        "Fluid Flow Operations", 
+        "Solid Flow Operations", 
+        "Process Calculations", 
+        "Heat Transfer", 
+        "Mass Transfer", 
+        "Process Control", 
+        "Transport Phenomenon", 
+        "Chemical Process Industries", 
+        "Enginerring Computation", 
+        "Plant Utilities", 
+        "Process Integration"]
     }
   ],
-  "skills": [Python, MATLAB, Origin, Rhino, Minitab, MS Office, MS project, Rheometer, 3D Printer, Dynamic Light Scattering, Optical Microscope, Confocal Microscope, XRD, FTIR, UV spectrophotometer, Microplate reader, Tensiometer, DinoLite Microscope, Bomb Calorimeter],
-  "languages": [English, Hindi, Gujarati, Finnish],
-  "interests": [teaching, research, coding],
+  "skills": [
+    "Python", "MATLAB", "Origin", "Rhino", "Minitab", "MS Office", "MS project", "Rheometer", "3D Printer", "Dynamic Light Scattering", "Optical Microscope", "Confocal Microscope", "XRD", "FTIR", "UV spectrophotometer", "Microplate reader", "Tensiometer", "DinoLite Microscope", "Bomb Calorimeter"],
+  "languages": ["English", "Hindi", "Gujarati", "Finnish"],
+  "interests": ["teaching", "research", "3D printing", "coding"],
   "references": [],
   "publications": [
     {
