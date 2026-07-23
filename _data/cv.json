@@ -126,7 +126,7 @@
         "Rhino", 
         "Minitab", 
         "MS Office", 
-        "MS project", 
+        "MS project"
       ]
     },
   {
@@ -166,11 +166,29 @@
   }
   ],
   "interests": [
-    "teaching", 
-    "research", 
-    "3D printing", 
-    "coding"
-  ],
+  {
+    "name": "Research",
+    "keywords": [
+      "Hydrogels",
+      "Rheology",
+      "3D Printing"
+    ]
+  },
+  {
+    "name": "Teaching",
+    "keywords": [
+      "Chemical Engineering",
+      "Mentoring"
+    ]
+  },
+  {
+    "name": "Coding",
+    "keywords": [
+      "Python",
+      "MATLAB"
+    ]
+  }
+]
   "references": [],
   "publications": [
     {
