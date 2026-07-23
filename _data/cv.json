@@ -88,9 +88,60 @@
     }
   ],
   "skills": [
-    "Python", "MATLAB", "Origin", "Rhino", "Minitab", "MS Office", "MS project", "Rheometer", "3D Printer", "Dynamic Light Scattering", "Optical Microscope", "Confocal Microscope", "XRD", "FTIR", "UV spectrophotometer", "Microplate reader", "Tensiometer", "DinoLite Microscope", "Bomb Calorimeter"],
-  "languages": ["English", "Hindi", "Gujarati", "Finnish"],
-  "interests": ["teaching", "research", "3D printing", "coding"],
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Python", 
+        "MATLAB", 
+        "Origin", 
+        "Rhino", 
+        "Minitab", 
+        "MS Office", 
+        "MS project", 
+      ]
+    },
+  {
+  "name": "Instrument",
+  "keywords": [
+    "Rheometer", 
+    "3D Printer", 
+    "Dynamic Light Scattering", 
+    "Optical Microscope", 
+    "Confocal Microscope", 
+    "XRD", 
+    "FTIR", 
+    "UV spectrophotometer", 
+    "Microplate reader", 
+    "Tensiometer", 
+    "DinoLite Microscope", 
+    "Bomb Calorimeter"
+  ]
+  }
+  ],
+  "languages": [
+  {
+  "language": "English",
+  "fluency": "Professional"
+  },
+  {
+    "language": "Hindi",
+    "fluency": "Native"
+  },
+  {
+    "language": "Gujarati",
+    "fluency": "Native"
+  },
+  {
+    "language": "Finnish",
+    "fluency": "Beginner"
+  }
+  ],
+  "interests": [
+    "teaching", 
+    "research", 
+    "3D printing", 
+    "coding"
+  ],
   "references": [],
   "publications": [
     {
