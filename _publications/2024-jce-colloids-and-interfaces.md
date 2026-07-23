@@ -9,7 +9,7 @@ venue: 'Journal of Chemical Education'
 paperurl: 'https://doi.org/10.1021/acs.jchemed.3c01218'
 citation: 'Patel, Panchami and Thareja, Prachi, “Colloids and Interfaces: Where Science Meets Engineering, a Hands-on Learning Approach”, Journal of Chemical Education 2024, 101, 5, 2072–2079'
 ---
-<img src="/images/Colloidspaper.gif"
+<img src="/images/Colloidspaper.jpg"
      alt="colloids and interfaces"
      width="700">
      
