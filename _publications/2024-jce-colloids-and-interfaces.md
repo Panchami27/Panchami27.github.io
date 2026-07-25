@@ -6,6 +6,8 @@ permalink: /publication/2024-jce-colloids-and-interfaces
 excerpt: 'This article describes two sets of experiments designed to enhance the understanding of colloidal systems...'
 date: 2024-04-01
 venue: 'Journal of Chemical Education'
+header:
+  teaser: /images/Figure-papers/colloidspaper.jpg
 paperurl: 'https://doi.org/10.1021/acs.jchemed.3c01218'
 citation: 'Patel, Panchami and Thareja, Prachi, “Colloids and Interfaces: Where Science Meets Engineering, a Hands-on Learning Approach”, Journal of Chemical Education 2024, 101, 5, 2072–2079'
 ---
