@@ -7,7 +7,7 @@ excerpt: 'In this work, κ-carrageenan and olive oil at different oil to κ-carr
 date: 2024-07-26
 venue: 'Langmuir'
 header:
-  teaser: /images/Figure-papers/emulsionfigure.jpg
+  teaser: /images/Figure-papers/emulsionpaper.jpg
 paperurl: 'https://doi.org/10.1021/acs.langmuir.4c00894'
 citation: 'Patel, Panchami, Esther, Manasi, Thareja, Prachi, "Rheology and extrusion printing of κ-carrageenan/olive oil emulsion gel tablets with varying surface area to volume ratios for release of Vitamin C and Curcumin", Langmuir 2024, 40, 31, 16069-16084.'
 ---
