@@ -11,7 +11,7 @@ header:
 paperurl: 'https://doi.org/10.1121/10.0025291'
 citation: 'Bisht, Sapna, Patel, Panchami, Thareja, Prachi, Mercado-Shekhar, Karla P, "Systematic quantification of differences in shear wave elastography estimates between linear-elastic and viscoelastic material assumptions: In silico, in vitro, and ex vivo studies", Journal of the Acoustical Society of America 2024, 155 (3), 2025-2036'
 ---
-<img src="/images/Figure-papers/elastography.jpeg"
+<img src="/images/Figure-papers/elastographyfigure.jpeg"
   alt="Glucose detection by gold nanoparticle loaded carrageenan hydrogen electrodes"
   width="700">
   
