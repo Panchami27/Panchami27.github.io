@@ -7,11 +7,12 @@ excerpt: 'Surfactants in water and both alcohol-water mixed solutions are used e
 date: 2023/01/30
 venue: 'Journal of Surfactants and Detergents'
 header:
-  teaser: /images/Figure-papers/ethanolpaper.jpg
+  teaser: /images/Figure-papers/ethanolpaper.png
 paperurl: 'https://doi.org/10.1002/jsde.12662'
 citation: 'Vinod Kumar, Panchami Patel, Debes Ray, Prachi Thareja, Ketan Kuperkar, Vinod Kumar Aswal, Pratap Bahadur, "Physiochemical insight into the solution behavior of cationic gemini surfactant in water and ethanol-water systems", Journal of Surfactants and Detergents 2023, 26 (5), 623-632'
+
 ---
-<img src="/images/Figure-papers/ethanolpaper.jpg"
+<img src="/images/Figure-papers/ethanolpaper.png"
      alt="surfactant in water and alcohol-water mixed systems"
      width="700">
 
