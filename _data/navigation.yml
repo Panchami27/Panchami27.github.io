@@ -17,11 +17,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Teaching Presentations"
-    url: /teaching-presentations/
+  - title: "Notes"
+    url: /notes/
         
-  - title: "Teaching Codes"
-    url: /teaching-codes/
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/
