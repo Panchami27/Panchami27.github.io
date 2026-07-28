@@ -8,6 +8,7 @@ author_profile: true
 This page highlights engineering, research, and programming projects that demonstrate my experience in chemical engineering, biomaterials, scientific computing, and data analysis.
 
 ---
+
 # Research Projects
 
 This section includes research projects, engineering design, and interdisciplinary work.
@@ -25,6 +26,9 @@ This section includes research projects, engineering design, and interdisciplina
 {% endif %}
 
 ---
+
+{% endfor %}
+
 
 # MATLAB Projects
 
@@ -46,6 +50,7 @@ These projects demonstrate numerical methods, process calculations, engineering 
 
 {% endfor %}
 
+
 # Python Projects
 
 These projects focus on scientific computing, data analysis, visualization, and engineering applications developed using Python.
@@ -63,8 +68,5 @@ These projects focus on scientific computing, data analysis, visualization, and 
 {% endif %}
 
 ---
-
-{% endfor %}
-
 
 {% endfor %}
