@@ -32,6 +32,6 @@ header:
 
 Algorithm_3 is drawn to show the process to design heat exchanger network using stream matching at Pinch to prepare Heat Exchanger Network (HEN).
 
-<img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm3.png" 
+<img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm3.jpg" 
      alt="Algorithm 3" 
      style="width:80%; height:auto;">
