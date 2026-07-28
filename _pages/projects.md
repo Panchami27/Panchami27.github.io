@@ -28,7 +28,7 @@ This section includes research projects, engineering design, and interdisciplina
 ---
 
 {% endfor %}
-
+---
 
 # MATLAB Projects
 
