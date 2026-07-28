@@ -1,0 +1,31 @@
+---
+title: "Heat Exchanger Design Project 3"
+collection: projects
+permalink: /HCC/
+project_type: matlab
+date: 2025-10-20
+
+excerpt: "HCC.m code is written to design heat exchanger network using Hohmann/Lochart Composite Curve (HCC)."
+
+header:
+  teaser: /images/projects/HCC.png
+---
+
+## Overview
+
+HCC.m code is written to design heat exchanger newtork using Hohmann/Lochart Composite Curve (HCC). The output of the code gives the cold pinch point temperature, the hot composite curve, and the cold composite curve. Code needs to be refined further to shift the cold composite curve by deltaTmin to obtain the hot and cold utilities.Data used in code taken from Example 10.2 from Warren D. Seider, J. D. Seader, Daniel R. Lewin, Product and Process Design Principles: Synthesis, Analysis, and Evaluation, 2nd Edition, Wiley as a reference book.
+
+### Skills
+
+- MATLAB
+- Heat Transfer
+- Computational Methods
+
+### Code
+
+[Open MATLAB Code](/files/matlab/HCC.m)
+
+Algorithm_2 is drawn to show the process to design heat exchanger network using Hohmann/Lochart Composite Curve (HCC).
+<img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm2.png" 
+     alt="Algorithm 2" 
+     style="width:80%; height:auto;">
