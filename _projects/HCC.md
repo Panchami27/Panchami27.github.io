@@ -8,7 +8,7 @@ date: 2026-07-28
 excerpt: "HCC.m code is written to design heat exchanger network using Hohmann/Lochart Composite Curve (HCC)."
 
 header:
-  teaser: /images/projects/HCC.png
+  teaser: /images/projects/heat-exchanger-design/HCC.png
 ---
 
 ## Overview
