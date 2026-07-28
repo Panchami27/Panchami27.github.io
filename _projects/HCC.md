@@ -3,7 +3,7 @@ title: "Heat Exchanger Design Project 3"
 collection: projects
 permalink: /HCC/
 project_type: matlab
-date: 2025-10-20
+date: 2026-07-28
 
 excerpt: "HCC.m code is written to design heat exchanger network using Hohmann/Lochart Composite Curve (HCC)."
 
