@@ -8,7 +8,7 @@ date: 2026-07-28
 excerpt: "HENTI1.m MATLAB code is written to design heat exchanger network using temperature interval method."
 
 header:
-  teaser: /images/projects/HENTI1.png
+  teaser: /images/projects/heat-exchanger-design/HENTI1.png
 ---
 
 ## Overview
