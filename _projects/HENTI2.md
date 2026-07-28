@@ -33,6 +33,6 @@ header:
 
 Algorithm_1 is drawn to show the process to design heat exchanger network using temperature interval method and to draw the Grand Composite Curve (GCC).
 
-<img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm1.png" 
+<img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm1.jpg" 
      alt="Algorithm 1" 
      style="width:80%; height:auto;">
