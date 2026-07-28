@@ -5,7 +5,7 @@ permalink: /HENTI1/
 project_type: matlab
 date: 2025-10-01
 
-excerpt: "HENTI1.m MATLAB code is wrtitten to design heat exchanger network using temperature interval method."
+excerpt: "HENTI1.m MATLAB code is written to design heat exchanger network using temperature interval method."
 
 header:
   teaser: /images/projects/HENTI1.png
@@ -13,8 +13,14 @@ header:
 
 ## Overview
 
-HENTI1.m MATLAB code is wrtitten to design heat exchanger network using temperature interval method, the output of the code gives the hot pinch point temperature, cold pinch point temperature, hot utility duty and cold utility duty. Data used in code taken from Example 10.2 from Warren D. Seider, J. D. Seader, Daniel R. Lewin, Product and Process Design Principles: Synthesis, Analysis, and Evaluation, 2nd Edition, Wiley.
+- HENTI1.m MATLAB code is written to design heat exchanger network using temperature interval method.
+- The output of the code gives the hot pinch point temperature, cold pinch point temperature, hot utility duty and cold utility duty.
+- Data used in code taken from Example 10.2 from Warren D. Seider, J. D. Seader, Daniel R. Lewin, Product and Process Design Principles: Synthesis, Analysis, and Evaluation, 2nd Edition, Wiley.
 
+<img src="{{ base_path }}/images/projects/heat-exchanger-design/example10-2.png" 
+     alt="Example 10.2 Data" 
+     style="width:80%; height:auto;">
+     
 ### Skills
 
 - MATLAB
@@ -24,3 +30,9 @@ HENTI1.m MATLAB code is wrtitten to design heat exchanger network using temperat
 ### Code
 
 [Open MATLAB Code](/files/matlab/HENTI1.m)
+
+Algorithm_1 is drawn to show the process to design heat exchanger network using temperature interval method and to draw the Grand Composite Curve (GCC).
+
+<img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm1.png" 
+     alt="Algorithm 1" 
+     style="width:80%; height:auto;">
