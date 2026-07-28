@@ -30,7 +30,7 @@ header:
 
 ### Code
 
-[Open MATLAB Code](/files/matlab/HENTI1.m)
+[Open MATLAB Code](https://github.com/Panchami27/Panchami27.github.io/blob/master/files/matlab/HENTI1.m)
 
 Algorithm_1 is drawn to show the process to design heat exchanger network using temperature interval method and to draw the Grand Composite Curve (GCC).
 
