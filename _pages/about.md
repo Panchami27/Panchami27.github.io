@@ -1,3 +1,10 @@
+---
+layout: single
+title: "About Me"
+permalink: /
+author_profile: true
+---
+
 # About Me
 
 I am a Chemical Engineer with expertise in biomaterials, hydrogels, rheology, and additive manufacturing (3D printing). My research focuses on understanding the relationship between material structure, processing, and performance, with applications in healthcare, water remediation, and sustainable materials.
