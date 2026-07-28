@@ -13,7 +13,14 @@ header:
 
 ## Overview
 
-HCC.m code is written to design heat exchanger newtork using Hohmann/Lochart Composite Curve (HCC). The output of the code gives the cold pinch point temperature, the hot composite curve, and the cold composite curve. Code needs to be refined further to shift the cold composite curve by deltaTmin to obtain the hot and cold utilities.Data used in code taken from Example 10.2 from Warren D. Seider, J. D. Seader, Daniel R. Lewin, Product and Process Design Principles: Synthesis, Analysis, and Evaluation, 2nd Edition, Wiley as a reference book.
+- HCC.m code is written to design heat exchanger newtork using Hohmann/Lochart Composite Curve (HCC).
+- The output of the code gives the cold pinch point temperature, the hot composite curve, and the cold composite curve.
+- Code needs to be refined further to shift the cold composite curve by deltaTmin to obtain the hot and cold utilities.
+- Data used in code taken from Example 10.2 from Warren D. Seider, J. D. Seader, Daniel R. Lewin, Product and Process Design Principles: Synthesis, Analysis, and Evaluation, 2nd Edition, Wiley as a reference book.
+
+<img src="{{ base_path }}/images/projects/heat-exchanger-design/example10-2.png" 
+     alt="Example 10.2 Data" 
+     style="width:80%; height:auto;">
 
 ### Skills
 
