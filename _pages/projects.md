@@ -7,13 +7,57 @@ author_profile: true
 
 # Projects
 
-This page contains a collection of engineering, computational, and research projects demonstrating my experience in chemical engineering, biomaterials, scientific computing, and data analysis. The projects include MATLAB programs, Python scripts, engineering calculations, and research tools developed during my academic and professional work.
+This page highlights engineering, research, and programming projects that demonstrate my experience in chemical engineering, biomaterials, scientific computing, and data analysis.
 
 ---
 
-{% assign sorted = site.projects | sort: "date" | reverse %}
+# MATLAB Projects
 
-{% for post in sorted %}
+These projects demonstrate numerical methods, process calculations, engineering design, and data analysis developed using MATLAB.
+
+{% assign matlab_projects = site.projects | where: "project_type", "matlab" %}
+
+{% for post in matlab_projects %}
+
+## [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt }}
+
+{% if post.header.teaser %}
+<img src="{{ post.header.teaser | relative_url }}" width="250">
+{% endif %}
+
+---
+
+{% endfor %}
+
+# Python Projects
+
+These projects focus on scientific computing, data analysis, visualization, and engineering applications developed using Python.
+
+{% assign python_projects = site.projects | where: "project_type", "python" %}
+
+{% for post in python_projects %}
+
+## [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt }}
+
+{% if post.header.teaser %}
+<img src="{{ post.header.teaser | relative_url }}" width="250">
+{% endif %}
+
+---
+
+{% endfor %}
+
+# Research Projects
+
+This section includes research projects, engineering design, and interdisciplinary work.
+
+{% assign other_projects = site.projects | where: "project_type", "other" %}
+
+{% for post in other_projects %}
 
 ## [{{ post.title }}]({{ post.url | relative_url }})
 
