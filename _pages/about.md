@@ -5,8 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# About Me
-
 I am a Chemical Engineer with expertise in biomaterials, hydrogels, rheology, and additive manufacturing (3D printing). My research focuses on understanding the relationship between material structure, processing, and performance, with applications in healthcare, water remediation, and sustainable materials.
 
 I earned my Ph.D. in Chemical Engineering from IIT Gandhinagar, where my research combined experimental characterization with engineering analysis to develop functional hydrogel systems. My work has involved rheological characterization, microstructural analysis, hydrogel design, extrusion-based 3D printing, and the development of biomaterial-based systems for targeted applications. I have authored peer-reviewed publications in international journals and presented my research at national and international conferences.
