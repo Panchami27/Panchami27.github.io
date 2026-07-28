@@ -4,6 +4,7 @@ collection: projects
 permalink: /HEN/
 project_type: matlab
 date: 2026-07-28
+order: 4
 
 excerpt: "HEN.m code is written to design heat exchanger network using stream matching at Pinch to prepare Heat Exchanger Network (HEN)."
 
