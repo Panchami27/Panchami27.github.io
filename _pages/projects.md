@@ -5,9 +5,24 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
-
 This page highlights engineering, research, and programming projects that demonstrate my experience in chemical engineering, biomaterials, scientific computing, and data analysis.
+
+---
+# Research Projects
+
+This section includes research projects, engineering design, and interdisciplinary work.
+
+{% assign other_projects = site.projects | where: "project_type", "other" %}
+
+{% for post in other_projects %}
+
+## [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt }}
+
+{% if post.header.teaser %}
+<img src="{{ post.header.teaser | relative_url }}" width="250">
+{% endif %}
 
 ---
 
@@ -51,22 +66,5 @@ These projects focus on scientific computing, data analysis, visualization, and 
 
 {% endfor %}
 
-# Research Projects
-
-This section includes research projects, engineering design, and interdisciplinary work.
-
-{% assign other_projects = site.projects | where: "project_type", "other" %}
-
-{% for post in other_projects %}
-
-## [{{ post.title }}]({{ post.url | relative_url }})
-
-{{ post.excerpt }}
-
-{% if post.header.teaser %}
-<img src="{{ post.header.teaser | relative_url }}" width="250">
-{% endif %}
-
----
 
 {% endfor %}
