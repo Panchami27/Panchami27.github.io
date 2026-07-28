@@ -8,7 +8,7 @@ date: 2026-07-28
 excerpt: "HEN.m code is written to design heat exchanger network using stream matching at Pinch to prepare Heat Exchanger Network (HEN)."
 
 header:
-  teaser: /images/projects/HEN.png
+  teaser: /images/projects/heat-exchanger-design/HEN.png
 ---
 
 ## Overview
