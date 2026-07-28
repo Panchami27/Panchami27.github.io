@@ -13,7 +13,7 @@ This page highlights engineering, research, and programming projects that demons
 
 This section includes research projects, engineering design, and interdisciplinary work.
 
-{% assign other_projects = site.projects | where: "project_type", "other" %}
+{% assign other_projects = site.projects | where: "project_type", "other" | sort: "order" %}
 
 {% for post in other_projects %}
 
@@ -34,7 +34,7 @@ This section includes research projects, engineering design, and interdisciplina
 
 These projects demonstrate numerical methods, process calculations, engineering design, and data analysis developed using MATLAB.
 
-{% assign matlab_projects = site.projects | where: "project_type", "matlab" %}
+{% assign matlab_projects = site.projects | where: "project_type", "matlab" | sort: "order" %}
 
 {% for post in matlab_projects %}
 
@@ -55,7 +55,7 @@ These projects demonstrate numerical methods, process calculations, engineering 
 
 These projects focus on scientific computing, data analysis, visualization, and engineering applications developed using Python.
 
-{% assign python_projects = site.projects | where: "project_type", "python" %}
+{% assign python_projects = site.projects | where: "project_type", "python" | sort: "order" %}
 
 {% for post in python_projects %}
 
