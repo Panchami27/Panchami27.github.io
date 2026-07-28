@@ -8,7 +8,7 @@ date: 2026-07-28
 excerpt: "HENTI2.m MATLAB code is written to design heat exchanger network using temperature interval method and to plot a Grand Composite Curve (GCC)."
 
 header:
-  teaser: /images/projects/HENTI2.png
+  teaser: /images/projects/heat-exchanger-design/HENTI2.png
 ---
 
 ## Overview
