@@ -4,6 +4,7 @@ collection: projects
 permalink: /HENTI1/
 project_type: matlab
 date: 2026-07-28
+order: 1
 
 excerpt: "HENTI1.m MATLAB code is written to design heat exchanger network using temperature interval method."
 
