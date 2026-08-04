@@ -29,7 +29,7 @@ header:
 
 ### Code
 
-[Open MATLAB Code](/files/matlab/HEN.m)
+[Open MATLAB Code](https://github.com/Panchami27/Panchami27.github.io/blob/master/files/matlab/HEN.m){:target="_blank"}
 
 Algorithm_3 is drawn to show the process to design heat exchanger network using stream matching at Pinch to prepare Heat Exchanger Network (HEN).
 
