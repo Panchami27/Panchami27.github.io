@@ -31,7 +31,7 @@ header:
 
 ### Code
 
-[Open MATLAB Code](/files/matlab/HCC.m)
+[Open MATLAB Code](https://github.com/Panchami27/Panchami27.github.io/blob/master/files/matlab/HCC.m){:target="_blank"}
 
 Algorithm_2 is drawn to show the process to design heat exchanger network using Hohmann/Lochart Composite Curve (HCC).
 <img src="{{ base_path }}/images/projects/heat-exchanger-design/algorithm2.png" 
