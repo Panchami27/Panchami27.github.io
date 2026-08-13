@@ -13,13 +13,30 @@ This page contains presentation notes on chemical engineering subjects including
 
 This section includes notes on:
 
-**Unit 1:** Applications of heat transfer in engineering, modes of heat transfer, and heat transfer with and without phase change.
+**Unit 1:** Applications of heat transfer in engineering and introduction to heat transfer
+[View Unit 1 Notes](/files/notes/HT-U1.pdf)
 
-**Unit 2:** Mechanism of conduction, Fourier's law, and development of equations for conduction heat transfer.
+**Unit 2:** Mechanism of conduction, Fourier's law, and development of equations for conduction heat transfer
+[View Unit 2 Notes](/files/notes/HT-U2.pdf)
 
-**Unit 3:** Convection, hydrodynamic and thermal boundary layer thickness for flow over flat plate and in pipe, convective heat transfer coefficient, dimensionless numbers, forced convection, and general methods for estimation of convection heat transfer coefficient.
+**Unit 3:** Mechanism of Convection, boundary layers, heat transfer coefficient, dimensionless numbers, forced convection, and estimation methods for heat transfer coefficient
+[View Unit 3 Notes](/files/notes/HT-U3.pdf)
 
-**Unit 4:** 
+
+**Unit 4:** Mechanism of Radiation, Kirchhoffs law, Stefan-Boltzmann law
+[View Unit 4 Notes](/files/notes/HT-U4.pdf)
+
+**Unit 5:** Heat Exchangers, classification, overall heat transfer coefficient, sizing (LMTD method, NTU method)
+[View Unit 5 Notes](/files/notes/HT-U5.pdf)
+
+**Unit 6:** Boiling and condensation, pool boiling, nucleate boiling, forced convection boiling, mechanism of condensation
+[View Unit 6 Notes](/files/notes/HT-U6.pdf)
+
+**Unit 7:** Evaporation, principle, type, single and multi-effect, capacity and economy, material and energy balance
+[View Unit 7 Notes](/files/notes/HT-U7.pdf)
+
+**Unit 8:** Heat Transfer in vessels, jacketed vessels, internal coils, agitated vessels
+[View Unit 8 Notes](/files/notes/HT-U8.pdf)
 
 ---
 
