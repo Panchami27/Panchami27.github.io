@@ -62,5 +62,25 @@ This section includes notes on:
 **Unit 6:** Design and Scheduling of Batch Processes  
 [View Unit 6 Notes](/files/notes/CMCE-U6.pdf)
 
+---
+
+# Fluid Flow Operation
+This section contains notes on
+
+**Unit 1:** Properties of fluids and concept of pressure
+[View Unit 1 Notes](/files/notes/FFO-U1.pdf)
+
+**Unit 2:** Momentum Balance and their Applications
+[View Unit 2 Notes](/files/notes/FFO-U2.pdf)
+
+**Unit 3:** Flow of incompressible fluids in pipes
+[View Unit 3 Notes](/files/notes/FFO-U3.pdf)
+
+**Unit 4:** Flow of Fluids through Solids
+[View Unit 4 Notes](/files/notes/FFO-U4.pdf)
+
+**Unit 5:** Transportation and Metering
+[View Unit 5 Notes](/files/notes/FFO-U5.pdf)
+
 **Lab Manual:** Exercises using hand calculations, Excel, and MATLAB to solve problems from the above units.  
 [View CMCE Lab Manual Notes](/files/notes/CMCE-Lab-Manual.pdf)
