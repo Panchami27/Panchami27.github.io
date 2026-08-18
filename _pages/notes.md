@@ -44,26 +44,19 @@ This section includes notes on:
 
 This section includes notes on:
 
-**Unit 1:** Design Process  
-[View Unit 1 Notes](/files/notes/CMCE-U1.pdf)
+**Unit 1:** Design Process [View Unit 1 Notes](/files/notes/CMCE-U1.pdf)
 
-**Unit 2:** Reactor Design and Reactor Network Synthesis  
-[View Unit 2 Notes](/files/notes/CMCE-U2.pdf)
+**Unit 2:** Reactor Design and Reactor Network Synthesis [View Unit 2 Notes](/files/notes/CMCE-U2.pdf)
 
-**Unit 3:** Synthesis of Separation Trains  
-[View Unit 3 Notes](/files/notes/CMCE-U3.pdf)
+**Unit 3:** Synthesis of Separation Trains [View Unit 3 Notes](/files/notes/CMCE-U3.pdf)
 
-**Unit 4:** Synthesis of Heat Exchanger Networks  
-[View Unit 4 Notes](/files/notes/CMCE-U4.pdf)
+**Unit 4:** Synthesis of Heat Exchanger Networks [View Unit 4 Notes](/files/notes/CMCE-U4.pdf)
 
-**Unit 5:** Energy Integrated Distillation Process  
-[View Unit 5 Notes](/files/notes/CMCE-U5.pdf)
+**Unit 5:** Energy Integrated Distillation Process [View Unit 5 Notes](/files/notes/CMCE-U5.pdf)
 
-**Unit 6:** Design and Scheduling of Batch Processes  
-[View Unit 6 Notes](/files/notes/CMCE-U6.pdf)
+**Unit 6:** Design and Scheduling of Batch Processes [View Unit 6 Notes](/files/notes/CMCE-U6.pdf)
 
-**Lab Manual:** Exercises using hand calculations, Excel, and MATLAB to solve problems from the above units.  
-[View CMCE Lab Manual Notes](/files/notes/CMCE-Lab-Manual.pdf)
+**Lab Manual:** Exercises using hand calculations, Excel, and MATLAB to solve problems from the above units [View CMCE Lab Manual Notes](/files/notes/CMCE-Lab-Manual.pdf)
 
 ---
 
