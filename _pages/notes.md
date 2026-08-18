@@ -62,6 +62,9 @@ This section includes notes on:
 **Unit 6:** Design and Scheduling of Batch Processes  
 [View Unit 6 Notes](/files/notes/CMCE-U6.pdf)
 
+**Lab Manual:** Exercises using hand calculations, Excel, and MATLAB to solve problems from the above units.  
+[View CMCE Lab Manual Notes](/files/notes/CMCE-Lab-Manual.pdf)
+
 ---
 
 # Fluid Flow Operation
@@ -81,6 +84,3 @@ This section contains notes on
 
 **Unit 5:** Transportation and Metering
 [View Unit 5 Notes](/files/notes/FFO-U5.pdf)
-
-**Lab Manual:** Exercises using hand calculations, Excel, and MATLAB to solve problems from the above units.  
-[View CMCE Lab Manual Notes](/files/notes/CMCE-Lab-Manual.pdf)
