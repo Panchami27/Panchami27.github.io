@@ -112,3 +112,9 @@ Academic Service and leadership
 
 * **Department Sports Coordinator**
   * Organized and supported departmental student activities and sports initiatives.
+
+**Sites**
+
+* Researchgate: "https://www.researchgate.net/profile/Panchami-Patel"
+* Linkedin: "https://www.linkedin.com/in/panchami-p-77b46567/"
+* Orcid: "https://orcid.org/0000-0002-5699-672X"
