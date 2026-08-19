@@ -59,6 +59,10 @@ This section includes notes on:
 **Lab Manual:** Exercises using hand calculations, Excel, and MATLAB to solve problems from the above units [View CMCE Lab Manual Notes](/files/notes/CMCE-Lab-Manual.pdf)
 
 ---
+# Process Equipment Design
+This section contains notes on
+
+**Unit 1:** 
 
 # Fluid Flow Operation
 This section contains notes on
