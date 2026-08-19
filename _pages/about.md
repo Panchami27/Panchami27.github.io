@@ -25,4 +25,8 @@ My research interests include:
 
 I am interested in roles in industrial R&D, materials development, process engineering, and technology innovation, where I can contribute through research, data-driven problem solving, and multidisciplinary collaboration. I am also enthusiastic about interdisciplinary collaborations that connect materials science, chemical engineering, computational methods, and sustainable technologies.
 
+**Sites**
+* Researchgate: https://www.researchgate.net/profile/Panchami-Patel
+* Linkedin: https://www.linkedin.com/in/panchami-p-77b46567/
+* Orcid: https://orcid.org/0000-0002-5699-672X
 Thank you for visiting my website. Please explore my publications, projects, teaching experience, and CV to learn more about my work. I welcome opportunities for collaboration and professional discussion.
