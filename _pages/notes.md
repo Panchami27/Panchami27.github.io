@@ -22,7 +22,6 @@ This section includes notes on:
 **Unit 3:** Mechanism of Convection, boundary layers, heat transfer coefficient, dimensionless numbers, forced convection, and estimation methods for heat transfer coefficient
 [View Unit 3 Notes](/files/notes/HT-U3.pdf)
 
-
 **Unit 4:** Mechanism of Radiation, Kirchhoffs law, Stefan-Boltzmann law
 [View Unit 4 Notes](/files/notes/HT-U4.pdf)
 
@@ -62,8 +61,38 @@ This section includes notes on:
 # Process Equipment Design
 This section contains notes on
 
-**Unit 1:** 
+**Unit 1:** Process design of Piping and Pumps
+[View Unit 1 Notes](/files/notes/PED-U1.pdf)
 
+**Unit 2:** Vessel Process design of Heat Exchangers
+[View Unit 2 Notes](/files/notes/PED-U2.pdf)
+
+**Unit 3:** Process design of Distillation Column
+[View Unit 3 Notes](/files/notes/PED-U3.pdf)
+
+**Unit 4:** Process design of Absorbers
+[View Unit 4 Notes](/files/notes/PED-U4.pdf)
+
+**Unit 5:** Mechanical design of Pressure Vessel
+[View Unit 5 Notes](/files/notes/PED-U5.pdf)
+
+---
+# Chemical Reaction Engineering
+This section contains notes on
+
+**Unit 1:** Basics of Rate process and Chemical Kinetics
+[View Unit 1 Notes](/files/notes/CRE-U1.pdf)
+
+**Unit 2:** Types and Mechanisms of Chemical Reactions 
+[View Unit 2 Notes](/files/notes/CRE-U2.pdf)
+
+**Unit 3:** Reactors for Multiple Reactions
+[View Unit 3 Notes](/files/notes/CRE-U3.pdf)
+
+**Unit 4:** Non-ideal flow 
+[View Unit 4 Notes](/files/notes/CRE-U4.pdf)
+
+---
 # Fluid Flow Operation
 This section contains notes on
 
@@ -81,3 +110,40 @@ This section contains notes on
 
 **Unit 5:** Transportation and Metering
 [View Unit 5 Notes](/files/notes/FFO-U5.pdf)
+
+---
+# Thermodynamics
+This section contains notes on
+**Unit 1:** Basic concepts and definitions
+**Unit 2:** First law of thermodynamics
+[View Unit 1-2 Notes](/files/notes/Th-U1-2.pdf)
+
+---
+# Process Intensification
+This section contains notes on
+**Unit 1:** Introduction to Process Intensification
+**Unit 2:** Novel Reactors
+**Unit 3:** Intensive mixers 
+**Unit 4:** Structured Catalysts and Reactors
+**Unit 5:** Separation 
+**Unit 6:** Integration of reaction and separation
+**Unit 7:** New Heat Exchangers
+[View PI Notes](/files/notes/PI.pdf)
+---
+# Physicochemical methods of water treatment 
+This section contains notes on
+**Unit 1:** Characteristics of water and wastewater
+**Unit 2:** Methods of wastewater treatment
+**Unit 3:** Treatment of Sludge
+**Unit 4:** Sludge dewatering and sludge disinfection
+[View PCWT Notes](/files/notes/PCWT-U1.pdf) 
+[View PCWT Notes](/files/notes/PCWT-U2-4.pdf) 
+
+---
+# Process Engineering
+Topics: Project Management, Degree of automation, S-curve, Types of projects, Contracts, Project Planning, Feasibility study, Statement of Work, Work Breakdown Structure, Cost benefit Analysis, Project Appraisal, Graphical Analysis (Gantt chart, Flow diagram, Network Scheduling techniques, Program Evaluation and Review Technique, Graphical Evaluation and Review Technique), Financial Analysis.
+[View PE Notes](/files/notes/PE.pdf) 
+---
+# Sugar and Food Technology
+Topics: Types of Food Industry, Food Industry segments, Production of sugar from sugar cane, Equipment for Sugar Industry, Beet Sugar manufacturing, Milk composition and processing, Products from milk, Milk powder production, Baking Industry, Beverage syrup manufacturing.
+[View SFT Notes](/files/notes/SFT.pdf) 
