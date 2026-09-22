@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* March 2025 - April 2026: Assistant Professor in the Department of Chemical Engineering, ITM SLS Baroda University
+* March 2025 - March 2026: Assistant Professor in the Department of Chemical Engineering, ITM SLS Baroda University
   * Subjects taught: Mass Transfer, Heat Transfer, Fluid Flow Operations, Computational Methods, Process Equipment Design, Thermodynamics, Chemical Technology, Wastewater Treatment, Sugar & Food Technology, Applied Chemistry.
   * Responsibilities: Mentor Coordinator, Class coordinator (Semesters II and VI), Training and Placement coordinator, BOS documentation, 1st year orientation and bridge course organizer, ABL activity coordinator.
   * Projects guided: Food waste-based film for food packaging, biodegradable hydrogel beads for multi-dye removal and recovery.
