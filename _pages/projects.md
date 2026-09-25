@@ -9,27 +9,6 @@ This page highlights engineering, research, and programming projects that demons
 
 ---
 
-# Research Projects
-
-This section includes research projects, engineering design, and interdisciplinary work.
-
-{% assign other_projects = site.projects | where: "project_type", "other" | sort: "order" %}
-
-{% for post in other_projects %}
-
-## [{{ post.title }}]({{ post.url | relative_url }})
-
-{{ post.excerpt }}
-
-{% if post.header.teaser %}
-<img src="{{ post.header.teaser | relative_url }}" width="250">
-{% endif %}
-
----
-
-{% endfor %}
----
-
 # MATLAB Projects
 
 These projects demonstrate numerical methods, process calculations, engineering design, and data analysis developed using MATLAB.
