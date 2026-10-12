@@ -79,7 +79,7 @@ print("The total pressure in pipeline is ",delPtotal," Pa")
 
 while delPtotal < Pav:
     Dirin = round(Di/25)
-    Dinewin = Dirin - 3
+    Dinewin = Dirin - 1
     Dinew = Dinewin * 25
     # calculate pressure drop in pipe due to turbulent flow
     delPpipenew = (4.07*(10**10))*(mdot**1.84)*(mu**0.16)*(Dinew**(-4.84))*(rho**(-1))*1000
