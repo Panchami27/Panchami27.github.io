@@ -22,4 +22,4 @@ Served as a research intern and educator to develop scientific kits and experime
 - Product development and testing
 - Managing classroom
 - Explaining STEM concepts and resolving any doubts
--  
+- Conducting workshops and providing hands-on support during various activities
