@@ -40,11 +40,11 @@ Alongside research and teaching, I have a strong interest in computational probl
 
 I am interested in opportunities across both engineering and education, including:
 
+- K–12 school teaching and substitute teaching
+- STEM education, hands-on learning, and student mentoring
 - Industrial R&D, materials development, and process engineering
 - Biomaterials, sustainable technologies, and technology innovation
 - Undergraduate teaching, laboratory instruction, and academic support
-- K–12 school teaching and substitute teaching
-- STEM education, hands-on learning, and student mentoring
 
 I enjoy interdisciplinary environments that encourage curiosity, practical problem solving, collaboration, and continuous learning. Whether working on engineering research or supporting students in the classroom, I value making complex ideas accessible and connecting learning with real-world applications.
 
