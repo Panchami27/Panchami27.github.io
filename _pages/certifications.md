@@ -15,9 +15,10 @@ This page highlights my professional development, software training, and special
 Completed the CDE Substitute Boot Camp, covering substitute teaching practices, classroom responsibilities, and preparation for working in Colorado schools.
 
 <figure>
-<img src="/images/certificates/cde-substitute-bootcamp.jpg"
-alt="CDE Substitute Boot Camp Certificate"
-style="width: 10cm; max-width: 100%; height: auto;">
+  <img src="{{ '/images/certificates/cde-substitute-bootcamp.jpg' | relative_url }}"
+       alt="Certificate of completion for CDE Substitute Boot Camp"
+       style="width: 10cm; max-width: 100%; height: auto;">
+  <figcaption>CDE Substitute Boot Camp – October 2026</figcaption>
 </figure>
 
 ### SubSchool – Welcome to Substitute Teaching
@@ -26,9 +27,10 @@ style="width: 10cm; max-width: 100%; height: auto;">
 Completed an introductory course focused on substitute teaching, classroom management, and the responsibilities of substitute educators.
 
 <figure>
-<img src="/images/certificates/subschool-certificate.jpg"
-alt="CDE Substitute Boot Camp Certificate"
-style="width: 10cm; max-width: 100%; height: auto;">
+  <img src="{{ '/images/certificates/subschool-certificate.jpg' | relative_url }}"
+       alt="SubSchool Welcome to Substitute Teaching certificate"
+       style="width: 10cm; max-width: 100%; height: auto;">
+  <figcaption>SubSchool – Welcome to Substitute Teaching, October 2026</figcaption>
 </figure>
 
 ### Colorado Substitute Teacher Authorization
@@ -46,9 +48,10 @@ Preparing an application for Colorado Substitute Teacher Authorization through t
 Completed MATLAB Onramp, an interactive course covering MATLAB fundamentals and computational problem solving.
 
 <figure>
-<img src="/images/certificates/matlab-onramp.jpg"
-alt="CDE Substitute Boot Camp Certificate"
-style="width: 10cm; max-width: 100%; height: auto;">
+  <img src="{{ '/images/certificates/matlab-onramp.jpg' | relative_url }}"
+       alt="MATLAB Onramp certificate of completion"
+       style="width: 10cm; max-width: 100%; height: auto;">
+  <figcaption>MATLAB Onramp – June 2026</figcaption>
 </figure>
 
 ### MATLAB Statistics Onramp
@@ -57,9 +60,10 @@ style="width: 10cm; max-width: 100%; height: auto;">
 Completed MATLAB Statistics Onramp, covering statistical analysis and working with data using MATLAB.
 
 <figure>
-<img src="/images/certificates/matlab-statistics-onramp.jpg"
-alt="CDE Substitute Boot Camp Certificate"
-style="width: 10cm; max-width: 100%; height: auto;">
+  <img src="{{ '/images/certificates/matlab-statistics-onramp.jpg' | relative_url }}"
+       alt="MATLAB Statistics Onramp certificate of completion"
+       style="width: 10cm; max-width: 100%; height: auto;">
+  <figcaption>MATLAB Statistics Onramp – June 2026</figcaption>
 </figure>
 
 ---
@@ -72,9 +76,10 @@ style="width: 10cm; max-width: 100%; height: auto;">
 Completed training in scientific writing, focusing on communicating research findings and presenting technical information effectively.
 
 <figure>
-<img src="/images/certificates/scientific-writing.jpg"
-alt="CDE Substitute Boot Camp Certificate"
-style="width: 10cm; max-width: 100%; height: auto;">
+  <img src="{{ '/images/certificates/scientific-writing.jpg' | relative_url }}"
+       alt="Scientific Writing course certificate"
+       style="width: 10cm; max-width: 100%; height: auto;">
+  <figcaption>Certification in Scientific Writing – May 2022</figcaption>
 </figure>
 
 ### The Society of Rheology Short Course: Colloidal Gels – Formation, Structure & Rheology
@@ -83,9 +88,8 @@ style="width: 10cm; max-width: 100%; height: auto;">
 Completed a specialized short course exploring the formation, structure, and rheological behavior of colloidal gels, complementing my research experience in hydrogels, soft materials, and rheology.
 
 <figure>
-<img src="/images/certificates/society-rheology-course.jpg"
-alt="CDE Substitute Boot Camp Certificate"
-style="width: 10cm; max-width: 100%; height: auto;">
-</figure>
+  <img src="{{ '/images/certificates/society-rheology-course.jpg' | relative_url }}"
+       alt="The Society of Rheology Short Course certificate on Colloidal Gels"
+       style="width: 10cm; max-width: 100%; height: auto;">
   <figcaption>The Society of Rheology Short Course – October 2021</figcaption>
 </figure>
