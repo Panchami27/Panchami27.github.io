@@ -14,10 +14,9 @@ This page highlights my professional development, software training, and special
 
 Completed the CDE Substitute Boot Camp, covering substitute teaching practices, classroom responsibilities, and preparation for working in Colorado schools.
 
-<figure>
-  <img src="{{ '/images/certificates/cde-substitute-bootcamp.jpg' | relative_url }}" alt="CDE Substitute Boot Camp Certificate" style="width: 75%; max-width: 650px; height: auto;">
-  <figcaption>CDE Substitute Boot Camp Certificate – October 2026</figcaption>
-</figure>
+<img src="/images/certificates/cde-substitute-bootcamp.jpg"
+alt="CDE Substitute Boot Camp Certificate"
+style="width: 10cm; max-width: 100%; height: auto;">
 
 ### SubSchool – Welcome to Substitute Teaching
 **October 2026**
