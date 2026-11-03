@@ -1,9 +1,26 @@
 ---
 layout: single
-title: "About Me"
+title: "Panchami Patel"
+page_class: portfolio-home
 permalink: /
 author_profile: true
 ---
+
+<div class="intro-banner">
+  <p class="eyebrow">Chemical engineering · Research · Education</p>
+  <h2>Exploring materials.<br>Inspiring learning.</h2>
+  <p class="intro-summary">From hydrogels and 3D printing to hands-on STEM education, I connect scientific understanding with practical applications.</p>
+  <div class="intro-actions">
+    <a class="portfolio-button" href="{{ '/publications/' | relative_url }}">Explore my research <span aria-hidden="true">↗</span></a>
+    <a class="portfolio-button secondary" href="{{ '/cv/' | relative_url }}">View my CV</a>
+  </div>
+</div>
+<nav class="focus-grid" aria-label="Explore my work">
+  <a href="{{ '/projects/' | relative_url }}"><span class="eyebrow">01 / Engineering</span><strong>Materials & computing</strong><span>Hydrogels, rheology, MATLAB and Python.</span></a>
+  <a href="{{ '/teaching/' | relative_url }}"><span class="eyebrow">02 / Education</span><strong>Teaching & mentoring</strong><span>Engineering classrooms and hands-on learning.</span></a>
+  <a href="{{ '/certifications/' | relative_url }}"><span class="eyebrow">03 / Development</span><strong>Continuous learning</strong><span>Teaching, computing and research training.</span></a>
+</nav>
+<h2 id="about-me">About me</h2>
 
 I am a Chemical Engineer with expertise in biomaterials, hydrogels, rheology, and additive manufacturing (3D printing). My research focuses on understanding the relationship between material structure, processing, and performance, with applications in healthcare, water remediation, and sustainable materials.
 
@@ -48,7 +65,8 @@ I enjoy interdisciplinary environments that encourage curiosity, practical probl
 
 Thank you for visiting my website. Please explore my publications, research projects, teaching experience, computational work, and CV to learn more about my background. I welcome opportunities for collaboration and professional discussion.
 
-# Sites
+### Find me online
+{: #sites}
 * Researchgate: <https://www.researchgate.net/profile/Panchami-Patel>
 * Linkedin: <https://www.linkedin.com/in/panchami-p-77b46567/>
 * Orcid: <https://orcid.org/0000-0002-5699-672X>

@@ -6,7 +6,7 @@ permalink: /publication/2023-gluocse-detection-by-hydrogel
 excerpt: 'The current manuscript reports the development of free-standing nanomaterial-modified hydrogels that can be explored...'
 date: 2023/11/01
 venue: 'Microchemical Journal'
-paperurl: '10.1016/j.microc.2023.109241'
+paperurl: 'https://doi.org/10.1016/j.microc.2023.109241'
 citation: 'Garg, Mayank, Patel, Panchami, Thareja, Prachi, "Non-enzymatic glucose detection using free-standing gold nanoparticle loaded carrageenan hydrogel electrodes", Microchemical Journal 2023, 194, 109241'
 header:
   teaser: /images/Figure-papers/goldnp.jpg
